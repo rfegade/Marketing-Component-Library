@@ -1,6 +1,6 @@
 import React from "react";
 import profileThumbnail from "../../../public/img/profileThumbnail.png";
-import TestimonialCard from "@/components/testimonialCard";
+import TestimonialCard from "@/components/TestimonialCard";
 
 export default function page() {
   return (
